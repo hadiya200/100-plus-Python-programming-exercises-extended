@@ -58,6 +58,11 @@ print(",".join(seq))
 ```
 
 ---
+**my solution python3**Shaikh Hadiya
+
+	li=input().split(',')
+	sqr=[str(int(num)**2) for num in li]
+	print(sqr)
 
 **_There were a mistake in the the test case and the solution's whice were notified and fixed with the help of @dwedigital. My warm thanks to him._**
 
